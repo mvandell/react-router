@@ -47,4 +47,14 @@ body > div {
 
 .home {
   background-color: #C490D1;
+  color: white;
+}
+
+h1 {
+  margin: 20px;
+}
+
+button {
+  margin: 5px;
+  margin-bottom: 10px;
 }
