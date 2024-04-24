@@ -23,6 +23,7 @@ export default function Blue() {
                 <section>
                     <h3>Color</h3>
                     <button value="forestgreen" onClick={handleColor}>Green</button>
+                    <button value="yellow" onClick={handleColor}>Yellow</button>
                     <button value="black" onClick={handleColor}>Black</button>
                     <button value="white" onClick={handleColor}>White</button>
                 </section>
