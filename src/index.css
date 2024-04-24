@@ -38,16 +38,19 @@ body > div {
 .red {
   background-color: #D60E0A;
   color: white;
+  border: 3px solid black;
 }
 
 .blue {
   background-color: #083CD9;
   color: white;
+  border: 3px solid black;
 }
 
 .home {
   background-color: #C490D1;
   color: white;
+  border: 3px solid black;
 }
 
 h1 {
